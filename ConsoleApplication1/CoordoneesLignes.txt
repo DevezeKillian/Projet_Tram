@@ -1,0 +1,36 @@
+NbLignes: 2
+
+NbArret: 6
+
+NomArret: Porte-Jeune
+X: 50 Y: 90
+
+NomArret: Mairie
+X: 70 Y: 112
+
+NomArret: Tour-nessel
+X: 116 Y: 189
+
+NomArret: Daguerre
+X: 166 Y: 234
+
+NomArret: Porte-haute
+X: 259 Y: 368
+
+NomArret: Palais-des-sports
+X: 352 Y: 427 
+
+NbArret: 4
+
+NomArret: Killian
+X: 500 Y: 180
+
+NomArret: Arthur
+X: 600 Y: 220
+
+NomArret: Raph
+X: 700 Y: 250
+
+NomArret: Hugo
+X: 700 Y: 350
+

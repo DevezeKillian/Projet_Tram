@@ -1,0 +1,3 @@
+﻿  tram.cpp
+C:\Users\killian\source\repos\Projet\Code\ConsoleApplication1\ConsoleApplication1\tram.cpp(181,9): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+  ConsoleApplication1.vcxproj -> C:\Users\killian\source\repos\Projet\Code\ConsoleApplication1\Debug\ConsoleApplication1.exe
